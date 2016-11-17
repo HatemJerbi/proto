@@ -1,0 +1,17 @@
+{
+  "name": "proto",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "6.18.0",
+    "meteor-node-stubs": "0.2.0",
+    "react": "15.4.0",
+    "react-dom": "15.4.0"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-class-properties": "6.19.0",
+    "babel-plugin-transform-object-rest-spread": "6.19.0"
+  }
+}
